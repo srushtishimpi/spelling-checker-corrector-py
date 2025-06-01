@@ -16,7 +16,7 @@ First, install the `pyspellchecker` package using the following command in your 
 
 ```bash
 pip install pyspellchecker
-
+```
 
 
 ## 🐍 Spell Correction with Python
